@@ -1,0 +1,4 @@
+这个及其简单理解没有解释
+url后边直接复制需要爬取的网络连接
+python中需要下载工具可以直接使用命令进行下载 pip install requests
+#这个是通过~.get函数发送的GET函数，使用beautifulsoup解析返回的html内容
